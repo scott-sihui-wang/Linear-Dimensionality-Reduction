@@ -23,3 +23,7 @@ In this project, my contributions are:
 - I performed a `variational analysis of Total Variation` and proposed a gradient descent algorithm. [report](/reports/Gradient_Based_Optimization_on_Total_Variation.pdf)
 
 ## 3. Demo
+
+Here is the result of `linear dimensionality reduction` on `MNIST` dataset. The `784` dimensional data is linearly projected to a `3` dimensional subspace with their distinctive features preserved (in an `information theoretic` view) as much as possible.
+
+![demo](/demo/MNIST_dim3.png)
