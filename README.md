@@ -12,7 +12,7 @@ This project corresponds to my [paper](https://ieeexplore.ieee.org/abstract/docu
 
 In this project, my contributions are:
 
-- I derived and mathematically proved the formulas for matrix calculus that is the foundation for gradient computation; [report](/reports/Maximizing Divergence after Linear Dimensionality Reduction.pdf)
+- I derived and mathematically proved the formulas for matrix calculus that is the foundation for gradient computation; [report](/reports/Maximizing_Divergence_after_Linear_Dimensionality_Reduction.pdf)
 
 - 
 
