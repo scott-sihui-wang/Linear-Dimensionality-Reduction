@@ -27,3 +27,7 @@ In this project, my contributions are:
 Here is the result of `linear dimensionality reduction` on `MNIST` dataset. The `784` dimensional data is linearly projected to a `3` dimensional subspace with their distinctive features preserved (in an `information theoretic` view) as much as possible.
 
 ![demo](/demo/MNIST_dim3.png)
+
+## 4. Acknowledgement
+
+We acknowledge the use of [Manopt](https://www.manopt.org/) for solving optimization problems on `manifolds`.
